@@ -1,0 +1,8 @@
+{
+  "name": "JavaScript Fundamental",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Tona-Mangobyte/Javascript-fundamental.git",
+  "author": "Tona-Mangobyte <tona@mango-byte.com>",
+  "license": "MIT"
+}
